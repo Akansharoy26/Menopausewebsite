@@ -1,0 +1,14 @@
+.img-testimonial{
+    width: 60px;
+    border-radius: 50%;
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%)
+
+
+}
+
+.testimonial-card{
+    position: relative;
+}

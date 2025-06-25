@@ -1,0 +1,20 @@
+.img-footer{
+    width: 50px;
+}
+#footer{
+    background: #ffffff;
+}
+
+.btn-input{
+    position: absolute;
+     /* width: 100px; */
+     height: 100%;
+     top: 0%;
+     right: 0%;
+}
+
+.input-wrapper{
+    position: relative;
+}
+
+

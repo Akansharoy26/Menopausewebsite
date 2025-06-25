@@ -1,0 +1,103 @@
+
+/* 
+p{
+    font-size: small;
+} */
+
+
+
+
+.featured-card{
+    background: #F4FEFF;
+}
+.featured-card2{
+    background: linear-gradient(#4ED6DA, #04789D);
+}
+
+.imgmore{
+    width: 50px;
+    height: 50px;
+}
+
+.bg-image-container {
+  background-image: url('gallery/louis-reed-pwcKF7L4-no-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 300px; 
+  border-radius: 8px;
+  overflow: hidden;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+
+  padding: 0;
+}
+
+.button-img {
+  width: 100%;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 10px 0;
+  border-radius: 0 0 8px 8px; 
+}
+
+.dp{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 3px solid white;
+    position: absolute;
+    bottom: -40px;
+    left: 5%;
+
+}
+
+.image{
+    width: 100%;
+    height: 200px;
+
+}
+
+.main-img-container{
+    position: relative;
+}
+
+.author-text{
+    margin-left: 100px;
+     text-align: left;
+     min-height: 10px;
+}
+
+.insignt-button{
+    width: 80%;
+    border-radius: 50px;
+    margin: 10px;
+}
+.img-privacy{
+
+}
+
+.nav-link {
+  font-family: 'Poppins', sans-serif;
+}
+
+.btn{
+      font-family: 'Poppins', sans-serif;
+}
+
+
+.image-wrapper {
+  height: 100px;     
+  display: flex;
+  justify-content: center; 
+  align-items: center;   
+  margin-bottom: 10px;   
+}
+
+.imgf {
+  max-height: 50%;   
+  max-width: 50%;        
+  object-fit: contain
+}

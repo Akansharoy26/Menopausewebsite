@@ -1,0 +1,7 @@
+.feature-card {
+  border: 1px solid #fe0000;
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease-in-out;
+}

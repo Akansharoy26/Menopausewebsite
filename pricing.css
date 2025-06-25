@@ -1,0 +1,63 @@
+.strike {
+  text-decoration: line-through;
+
+}
+
+.badge{
+  width: 100px;
+  height: 30px;
+  background: #1589AB;
+  border-radius: 50px;
+  top: -10px;
+  left: 20px;
+  position: absolute; 
+  color: white;
+  text-align: center;
+  font-weight: bold;
+
+}
+
+.card-pricing{
+    position: relative;
+    background: linear-gradient(#4ED6DA, #04789D);
+    border-radius: 20px;
+}
+
+.btn-card{
+    border-radius: 50px;
+    width: 80%;
+    text-align: center;
+    color: rgb(0, 0, 0) ;
+    background: #ffffff;
+
+}
+
+.gradient-text-btn {
+  font-weight: bold;
+  font-size: 1.2rem;
+  background: linear-gradient(to right, #4ED6DA, #04789D);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent; 
+  padding: 10px 20px;
+  border-radius: 50px;
+}
+
+
+
+.blur-card {
+  filter: blur(2px);
+  opacity: 0.6;
+  transform: scale(0.97);
+  transition: 0.3s ease-in-out;
+}
+
+.blur-card:hover {
+  filter: none;
+  opacity: 1;
+  transform: scale(1.05);
+  z-index: 4;
+}
+
+

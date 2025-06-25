@@ -1,0 +1,19 @@
+.btn{
+  width: 150px; 
+  height:50px; 
+    background: linear-gradient(#48CED5,#1087A7);
+    padding: 0%;
+    border: none;
+    border-radius: 7px;
+    box-sizing: border-box;
+}
+.logo{
+  width: 150px;
+  height: auto;
+}
+
+.author-info{
+  margin-top: -30px;
+}
+
+
